@@ -95,18 +95,6 @@ A comprehensive web-based Hospital Management System built with React.js fronten
 ![Nurse Portal](screenshots/nurse-portal.png)
 *Nurse interface for patient registration and care management*
 
-### Patient Management
-![Patient Management](screenshots/patient-management.png)
-*Complete patient information and medical history management*
-
-### Appointment Scheduling
-![Appointment Scheduling](screenshots/appointment-scheduling.png)
-*Real-time appointment booking and management system*
-
-### Bed Management
-![Bed Management](screenshots/bed-management.png)
-*Hospital bed allocation and status tracking*
-
 ## 🚀 Installation
 
 ### Prerequisites
